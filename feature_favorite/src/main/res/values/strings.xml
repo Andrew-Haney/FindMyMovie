@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_feature_favorite">Favorite</string>
+    <string name="add_to_favorites">Add To Favorites</string>
+    <string name="test">Test</string>
+    <string name="display_poster_of_movie">Display poster of movie</string>
+    <string name="favorite">FAVORITE</string>
+</resources>
